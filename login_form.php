@@ -49,5 +49,5 @@
     $password = $_POST['password'];
 
     echo $email . "<br/>";
-    echo $password . "<br/>";
+    // echo $password . "<br/>";
 ?>
